@@ -1,0 +1,1 @@
+[![CI](https://github.com/Doublewater-jpg/Cloud-Native-NYCU-2024/actions/workflows/ci.yaml/badge.svg?branch=add-ci)](https://github.com/Doublewater-jpg/Cloud-Native-NYCU-2024/actions/workflows/ci.yaml)
